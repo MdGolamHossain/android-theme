@@ -1,0 +1,55 @@
+<!-- Day Color -->
+
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <!-- Brand Colors -->
+        <color name="colorPrimary">#7600C4</color>
+        <color name="colorPrimaryVariant">#9A34E0</color>
+        <color name="colorSecondary">#FFC107</color>
+
+        <!-- Background & Card -->
+    <color name="backgroundColor">#ECE8F0</color>
+        <color name="cardBackgroundColor">#EAD6F7</color>
+
+        <!-- Text Colors -->
+        <color name="textPrimary">#212121</color>
+        <color name="textSecondary">#5F5F5F</color>
+
+    <!--Card Color -->
+    <color name="card1Color">#EAD6F7</color>
+    <color name="card2Color">#FFE6B3</color>
+    <color name="card3Color">#C8E6FF</color>
+    <color name="card4Color">#D8F7E1</color>
+
+</resources>
+
+
+
+
+<!-- Night Color -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="colorPrimary">#BB86FC</color>
+    <color name="colorPrimaryVariant">#985EFF</color>
+    <color name="colorSecondary">#FFD54F</color>
+
+    <!-- Background & Card -->
+    <color name="backgroundColor">#1A0B24</color>
+    <color name="cardBackgroundColor">#241033</color> 
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B3B3B3</color>
+
+     <!-- card Color -->
+    <color name="card1Color">#3A1E50</color>
+    <color name="card2Color">#4A3A1A</color>
+    <color name="card3Color">#1A2A3A</color>
+    <color name="card4Color">#1A3A2A</color>
+
+
+
+</resources>
